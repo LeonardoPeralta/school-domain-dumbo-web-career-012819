@@ -1,6 +1,6 @@
 class School
 
-def initialized(name)
+def initialized(name, roster)
   @name = name
   @roster = {}
 end
