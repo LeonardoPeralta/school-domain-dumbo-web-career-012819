@@ -8,4 +8,3 @@ def initialized(name)
 end
 
 end
-ß
